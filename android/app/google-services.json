@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "989177241646",
+    "project_id": "qlnhatre",
+    "storage_bucket": "qlnhatre.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989177241646:android:fa1007eeb17a74d0faffbf",
+        "android_client_info": {
+          "package_name": "com.example.qlnhatre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989177241646-jautkaa12khupsc1qhcajvirangro1ss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBqoLYIg-Nfu3i3aFeJItMxOfUg3qRfKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989177241646-jautkaa12khupsc1qhcajvirangro1ss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
